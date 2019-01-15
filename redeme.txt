@@ -1,3 +1,8 @@
 Git is a distributed version control system.
+<<<<<<< HEAD
 Git is free software.
 5566
+=======
+Git is free software.123
+hah1122
+>>>>>>> dev
